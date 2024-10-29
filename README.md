@@ -1,5 +1,24 @@
 # 💫 About Me:
-Hi! I'm Jithin Thomas, a dedicated professional with a strong foundation in customer service, software development, and team leadership. My background includes hands-on experience in software engineering, particularly with Flutter for mobile app development, and a commitment to improving team performance in client-facing roles. Currently, I'm pursuing a Master's in Artificial Intelligence Systems at EPITA School of Engineering and Computer Science, where I'm developing advanced AI and machine learning skills to drive innovative, tech-forward solutions.<br><br>Technical Skills<br>Programming Languages: Dart, Java, HTML, CSS, JavaScript, Python<br>Mobile Development: Flutter, Android<br>Database Management: MySQL, PostgreSQL<br>AI and Machine Learning: Python libraries (NumPy, Pandas, Seaborn, Matplotlib), R<br>Project Management Tools: Trello, Jira (Intermediate)<br>Certifications<br>Blockchain Foundation, Ethereum Fundamentals, and Hyperledger Fabric Fundamentals (Kerala Blockchain Academy)<br>The Complete 2020 Flutter Development Bootcamp with Dart<br>Interests<br>Blockchain: Cryptography, decentralization, smart contracts<br>AI & Machine Learning: Neural networks, deep learning, NLP<br>Computer Science: Data structures, algorithms, software engineering principles<br>Finance: Stock market trading, technical analysis, algorithmic trading<br>Contact<br>📧 Email: thomasjithin440@gmail.com<br>🌐 LinkedIn: linkedin.com/in/jithin-thomas-b26463194<br>
+Hi! I'm Jithin Thomas
+A dedicated professional with a strong foundation in customer service, software development, and team leadership. My background includes hands-on experience in software engineering, particularly with Flutter for mobile app development, and a commitment to improving team performance in client-facing roles. Currently, I'm pursuing a Master's in Artificial Intelligence Systems at EPITA School of Engineering and Computer Science, where I'm developing advanced AI and machine learning skills to drive inno...
+
+Technical Skills
+Programming Languages: Dart, Java, HTML, CSS, JavaScript, Python
+Mobile Development: Flutter, Android
+Database Management: MySQL, PostgreSQL
+AI and Machine Learning: Python libraries (NumPy, Pandas, Seaborn, Matplotlib), R
+Project Management Tools: Trello, Jira (Intermediate)
+Certifications
+Blockchain Foundation, Ethereum Fundamentals, and Hyperledger Fabric Fundamentals (Kerala Blockchain Academy)
+The Complete 2020 Flutter Development Bootcamp with Dart
+Interests
+Blockchain: Cryptography, decentralization, smart contracts
+AI & Machine Learning: Neural networks, deep learning, NLP
+Computer Science: Data structures, algorithms, software engineering principles
+Finance: Stock market trading, technical analysis, algorithmic trading
+Contact
+📧 Email: thomasjithin440@gmail.com
+🌐 LinkedIn: linkedin.com/in/jithin-thomas-b26463194
 
 
 # 💻 Tech Stack:
