@@ -11,6 +11,7 @@ Project Management Tools: Trello, Jira (Intermediate)
 Certifications
 Blockchain Foundation, Ethereum Fundamentals, and Hyperledger Fabric Fundamentals (Kerala Blockchain Academy)
 The Complete 2020 Flutter Development Bootcamp with Dart
+
 Interests
 Blockchain: Cryptography, decentralization, smart contracts
 AI & Machine Learning: Neural networks, deep learning, NLP
