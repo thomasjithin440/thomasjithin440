@@ -3,13 +3,16 @@ Hi! I'm Jithin Thomas
 A dedicated professional with a strong foundation in customer service, software development, and team leadership. My background includes hands-on experience in software engineering, particularly with Flutter for mobile app development, and a commitment to improving team performance in client-facing roles. Currently, I'm pursuing a Master's in Artificial Intelligence Systems at EPITA School of Engineering and Computer Science, where I'm developing advanced AI and machine learning skills to drive inno...
 
 Technical Skills
+
 Programming Languages: Dart, Java, HTML, CSS, JavaScript, Python
 Mobile Development: Flutter, Android
 Database Management: MySQL, PostgreSQL
 AI and Machine Learning: Python libraries (NumPy, Pandas, Seaborn, Matplotlib), R
 
 
-Project Management Tools: Trello, Jira (Intermediate)
+Project Management Tools
+
+Trello, Jira 
 Certifications
 Blockchain Foundation, Ethereum Fundamentals, and Hyperledger Fabric Fundamentals (Kerala Blockchain Academy)
 The Complete 2020 Flutter Development Bootcamp with Dart
