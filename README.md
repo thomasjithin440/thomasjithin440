@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi! I'm Jithin Thomas
+
 A dedicated professional with a strong foundation in customer service, software development, and team leadership. My background includes hands-on experience in software engineering, particularly with Flutter for mobile app development, and a commitment to improving team performance in client-facing roles. Currently, I'm pursuing a Master's in Artificial Intelligence Systems at EPITA School of Engineering and Computer Science, where I'm developing advanced AI and machine learning skills to drive inno...
 
 Technical Skills
