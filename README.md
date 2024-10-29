@@ -7,6 +7,8 @@ Programming Languages: Dart, Java, HTML, CSS, JavaScript, Python
 Mobile Development: Flutter, Android
 Database Management: MySQL, PostgreSQL
 AI and Machine Learning: Python libraries (NumPy, Pandas, Seaborn, Matplotlib), R
+
+
 Project Management Tools: Trello, Jira (Intermediate)
 Certifications
 Blockchain Foundation, Ethereum Fundamentals, and Hyperledger Fabric Fundamentals (Kerala Blockchain Academy)
