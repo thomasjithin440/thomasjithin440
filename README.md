@@ -22,8 +22,12 @@ Blockchain: Cryptography, decentralization, smart contracts
 AI & Machine Learning: Neural networks, deep learning, NLP
 Computer Science: Data structures, algorithms, software engineering principles
 Finance: Stock market trading, technical analysis, algorithmic trading
+
 Contact
+
+
 📧 Email: thomasjithin440@gmail.com
+
 🌐 LinkedIn: linkedin.com/in/jithin-thomas-b26463194
 
 
