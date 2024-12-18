@@ -16,7 +16,7 @@ AI and Machine Learning: Python libraries (NumPy, Pandas, Seaborn, Matplotlib), 
 
 Project Management Tools
 
-Trello, Jira 
+Trello, Jira ,
 Certifications
 Blockchain Foundation, Ethereum Fundamentals, and Hyperledger Fabric Fundamentals (Kerala Blockchain Academy)
 The Complete 2020 Flutter Development Bootcamp with Dart
